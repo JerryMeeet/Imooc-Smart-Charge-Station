@@ -33,7 +33,7 @@
         <!-- spring integration 版本 -->
         <spring.integration.version>6.2.6</spring.integration.version>
         <!-- netty 版本 -->
-        <netty-all.version>4.1.86.Final</netty-all.version>
+        <netty-all.version>4.2.13.Final</netty-all.version>
         <!-- iotdb 版本 -->
         <iotdb.version>1.3.2</iotdb.version>
         <!-- lombok 版本 -->
