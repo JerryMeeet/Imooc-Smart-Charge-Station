@@ -1,0 +1,7 @@
+iotdb:
+  username: root
+  password: root
+  ip: iotdb
+  port: 6667
+  #批量操作数量
+  maxSize: 200
