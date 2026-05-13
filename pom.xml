@@ -31,7 +31,7 @@
         <!-- SpringBoot 版本 -->
         <spring.boot.version>3.5.13</spring.boot.version>
         <!-- spring integration 版本 -->
-        <spring.integration.version>6.2.6</spring.integration.version>
+        <spring.integration.version>6.5.8</spring.integration.version>
         <!-- netty 版本 -->
         <netty-all.version>4.2.13.Final</netty-all.version>
         <!-- iotdb 版本 -->
